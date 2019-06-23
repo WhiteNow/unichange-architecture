@@ -1,0 +1,26 @@
+.container {
+    margin-top: 5%;
+    font-family: 'Bree Serif', serif;
+    font-style: normal;
+    display:flex;
+    justify-content: space-between;
+    /* background-color: #E8794C; */
+    border-radius: 5%;
+    position:center;
+  }
+.container-1 {
+  
+    margin-top:5%;
+  }
+  
+.reguladores {
+
+}
+
+.origen-input {
+  border-radius: 6%;
+}
+
+.destino-input {
+  border-radius: 6%;
+}
